@@ -8,9 +8,6 @@ I developed comprehensive project in Excel, of Walmart sales dashboard using mul
 
 ✅ To extract monthly sales trends to increase sales throughout the year.
 
-## Interactive Dashboard
-<a href="https://github.com/Yashchavan9709/Walmart-Sales-Dashboard/blob/main/Walmart_Sales_Dashboard.xlsx"> View Dashboard </a>
-
 ## Question
 1. Comapre Sales & order count in single chart
 
